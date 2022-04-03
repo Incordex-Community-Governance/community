@@ -9,5 +9,5 @@
 
 **Functional Objectives**
 - Deep Liquidity
-- Reduction of inflating Supply
+- Reduction of Inflating Supply
 - Integration of A Local Ve-Model (Vote-Escrowed) - veToken
