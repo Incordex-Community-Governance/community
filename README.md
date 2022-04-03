@@ -6,7 +6,10 @@
 - Tokenomics (Token Design): April 22
 - Initial Documentation (GitBook) [TBA]
 - Initial Event Sourcing Concept (implemented in JavaScript or TypeScript) [TBA]
-- White Paper (Project & Methodology Specification Overview) & Yellow Paper (Technical Specification Overview), Liquidity Mining Paper (Tokenomics & Terminology)
+- Specification Papers:
+  - White Paper (Project & Methodology Overview)
+  - Yellow Paper (Technical Overview)
+  - Liquidity Mining Paper (Tokenomics & Terminology Overview)
 
 **Functional Objectives**
 - Deep Liquidity
