@@ -1,5 +1,5 @@
-# community
-Documenting community resources, systems and related processes
+# Community Governance
+**_Valueable Governance & Utility over Speculation_**
 
 **Internal Roadmap**
 - Technological & Initial Project Structure: Jan 22 - April 22
