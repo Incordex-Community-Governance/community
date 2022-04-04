@@ -15,3 +15,6 @@
 - Deep Liquidity
 - Reduction of Inflating Supply
 - Integration of A Local Ve-Model (Vote-Escrowed) - veToken
+
+**...**
+- https://hellonext.co (Open Feature Requests, Changelog)
