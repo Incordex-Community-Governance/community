@@ -15,6 +15,7 @@
 - Deep Liquidity
 - Reduction of Inflating Supply
 - Integration of A Local Ve-Model (Vote-Escrowed) - veToken
+- <a href="https://github.com/Incordex-Community-Governance/community/wiki/Ecosystem-Support-Vault">Ecosystem Support Vault</a>
 
 **...**
 - https://hellonext.co (Open Feature Requests, Changelog)
