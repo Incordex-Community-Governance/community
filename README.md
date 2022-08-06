@@ -10,7 +10,7 @@
   - White Paper (Project & Methodology Overview)
   - Yellow Paper (Technical Overview)
   - Liquidity Mining Paper (Tokenomics & Terminology Overview)
-- <a href="https://github.com/Incordex-Community-Governance/community/wiki/Decentralized-Identity-(DID)-Platform">Decentralized Identity (DID) Platform</a>
+- <a href="https://github.com/Incordex-Community-Governance/community/wiki/Decentralized-Identity-(DID)-Platform">Decentralized Identity (DID) Network & Platform</a> (Self-Sovereign Identity)
 
 **Functional Objectives**
 - Deep Liquidity
